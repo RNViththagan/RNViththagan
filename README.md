@@ -34,8 +34,9 @@ Welcome to my GitHub profile! Here you can find my projects, code contributions,
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RNViththagan&show_icons=true&locale=en&layout=compact" alt="rnviththagan" />
 
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RNViththagan&show_icons=true&locale=en&layout=compact" alt="rnviththagan" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RNViththagan&" alt="rnviththagan" />
+</p>
 
 
