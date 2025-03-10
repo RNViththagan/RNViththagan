@@ -29,8 +29,8 @@ I'm an undergraduate student in the **Department of Computer Science** at the **
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RNViththagan&show_icons=true&locale=en&layout=compact" alt="rnviththagan" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RNViththagan&show_icons=true&locale=en&layout=compact" alt="rnviththagan" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RNViththagan&show_icons=true&locale=en&layout=compact" alt="rnviththagan" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=RNViththagan&show_icons=true&locale=en&layout=compact" alt="rnviththagan" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RNViththagan&" alt="rnviththagan" />
 </p>
 
