@@ -1,9 +1,10 @@
 ### Hi there, I'm Viththagan! 👋
 #### A Developer exploring AI & Software Engineering
 
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rnviththagan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p>-->
 
 I'm an undergraduate student in the **Department of Computer Science** at the **University of Jaffna**. Passionate about **AI, Deep Learning, and Software Development**, I aim to solve real-world problems through technology.
 
