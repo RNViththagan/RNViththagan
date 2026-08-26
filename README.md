@@ -2,7 +2,7 @@
 
 **Software Engineer, AI Agents and Developer Tooling**
 
-I design and build production agentic systems for software development. Currently the main developer of the agent architecture behind **[WSO2 Integrator Copilot](https://wso2.com/integration-platform/docs/develop/copilot/getting-started)**, an AI coding assistant for Ballerina integration development in WSO2 Integrator.
+Building AI agent systems, focused on the agent harness that turns a language model into a dependable coding agent. At WSO2, I'm the main developer of the agent architecture behind **[WSO2 Integrator Copilot](https://wso2.com/integration-platform/docs/develop/copilot/getting-started)**, an AI coding assistant for Ballerina integration development.
 
 ### Focus areas
 
