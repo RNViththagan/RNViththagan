@@ -10,15 +10,6 @@ I design and build production agentic systems for software development. Currentl
 - **Model Context Protocol**: server integration, lifecycle management, domain-specific MCP servers
 - **Developer tooling**: IDE extensions, CLI tools, language servers, Claude Code plugins
 
-### Selected projects
-
-| Project | Description |
-|---|---|
-| [ballerina-claude-plugins](https://github.com/RNViththagan/ballerina-claude-plugins) | Claude Code plugin for Ballerina with language server support, domain skills, and an agent for library discovery |
-| [claude-plugins](https://github.com/RNViththagan/claude-plugins) | Claude Code plugin marketplace, including `doc-from-video`, which generates structured documentation from screen recordings |
-| [ShikAI](https://github.com/RNViththagan/ShikAI) | Terminal-based AI assistant with persistent conversation state, resumable sessions, and sandboxed command execution |
-| [bal-library-tool](https://github.com/RNViththagan/bal-library-tool) | `bal library` CLI for Ballerina package API search, built on BM25 ranking over SQLite indexes and distributed as a single fat JAR |
-
 ### Technologies
 
 <p align="left">
