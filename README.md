@@ -31,7 +31,3 @@ Anthropic Claude API, Vercel AI SDK, Model Context Protocol, Ballerina, XState, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rnviththagan.github.io/me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viththagan-roy-nesarajah)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RNViththagan&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
